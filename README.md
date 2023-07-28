@@ -1,4 +1,6 @@
-![programmingIsCool](https://github.com/vifatala/vifatala/assets/53492255/4b2414cb-a199-4ebe-88a8-0e2ff59e6452)
+<p align="center">
+  <img src="https://github.com/vifatala/vifatala/assets/53492255/4b2414cb-a199-4ebe-88a8-0e2ff59e6452" />
+</p>
 
 
 <!--
