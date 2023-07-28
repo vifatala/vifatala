@@ -1,6 +1,5 @@
-### Hi there 👋
+![programmingIsCool](https://github.com/vifatala/vifatala/assets/53492255/4b2414cb-a199-4ebe-88a8-0e2ff59e6452)
 
-<img src="https://cdn.discordapp.com/attachments/838572990102372402/1134472966764245043/programmingIsCool.gif" alt="programming is cool." title="Optional title">
 
 <!--
 **vifatala/vifatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
